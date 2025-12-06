@@ -22,91 +22,67 @@
 
 This repository contains **my major self-made web projects**, showcasing **practical, functional, and interactive frontend skills** with **HTML, CSS, and JavaScript**.  
 
-These projects are **fully functional**, responsive, and demonstrate **real-world application development**. Perfect for **portfolio display**, recruiters, or anyone learning frontend development.  
+These projects are **fully functional**, responsive, and demonstrate **real-world application development**, perfect for **portfolio display**, recruiters, or anyone learning frontend development.  
 
 ---
 
-## 📂 Projects Overview
+## 📌 Featured Projects
 
-### 1️⃣ **Functional Calculator** 🔢
-- **Files:**  
-  - `calculator.html` 💻  
-  - `calculator.css` 🎨  
-- **Features:**  
-  - Basic arithmetic operations  
-  - Clean responsive design  
-  - Interactive button animations ✨  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY1iFXK0vhn7X6/giphy.gif" width="500"/>
-</p>
-
----
-
-### 2️⃣ **Scientific Calculator** 🧮
-- **Files:**  
-  - `scientific-calculator.html` 💻  
-  - `scientific-calculator.css` 🎨  
-- **Features:**  
-  - Advanced calculations (sin, cos, tan, log)  
-  - Interactive UI & responsive layout  
-  - Hover and click effects 💫  
-
----
-
-### 3️⃣ **Functional Todo App** 📝
-- **Files:**  
-  - `todo.html` 💻  
-  - `todo.css` 🎨  
-  - `todo.js` ⚡  
-- **Features:**  
-  - Add, edit, delete tasks ✅  
-  - Mark tasks as completed ✔️  
-  - Persistent data in browser (LocalStorage)  
-  - Beautiful, interactive UI  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR1ApmgDb8M0oGk/giphy.gif" width="500"/>
-</p>
-
----
-
-### 4️⃣ **Functional Myntra Clone** 🛍️
-- **Folder Structure:**  
-  - `css/` → `bag.css`, `index.css` 🎨  
-  - `data/` → `items.js` 📦  
-  - `images/` → `image1` ... `image8` 🖼️  
-  - `pages/` → `bag.html` 💻  
-  - `scripts/` → `bag.js`, `index.js` ⚡  
-  - `index.html` 🏠  
-
+### ⭐ **Myntra Functional Clone** 🛍️
+- 🔧 Tech: HTML, CSS  
+- 🖼️ Fully responsive layout  
+- 📄 Screenshots:  
+  ![Myntra Clone](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-15-55%20Myntra%20Functional%20Clone.png)  
 - **Features:**  
   - Homepage, product grids & banners  
   - Navigation bar & footer  
-  - Fully functional shopping interface  
-  - Dynamic product data with JavaScript  
-  - Responsive design for all screens 📱  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsZCkyvUGmZJkYI/giphy.gif" width="500"/>
-</p>
+  - Dynamic product display with JavaScript  
+  - Realistic e-commerce interface  
 
 ---
 
-### 5️⃣ **Functional Cricket Project** 🏏
-- **Files:**  
-  - `cricket.html` 💻  
-  - `cricket.css` 🎨  
-  - `images/` 🖼️  
-
+### 🧮 **Calculator App** 🔢
+- ⚡ Fully functional & interactive  
+- 🔧 Tech: HTML, CSS, JavaScript  
+- 🎨 Clean and responsive UI with modern button animations  
+- ✅ Functional for addition ➕, subtraction ➖, multiplication ✖️ & division ➗  
+- 💡 Includes clear, decimal, and all-clear buttons for usability  
+- 🖥️ Works on both desktop and mobile devices  
+- Screenshot:  
+  ![Calculator](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-40-15%20Calculator.png)  
 - **Features:**  
-  - Interactive cricket scoring & stats  
-  - Visual scoreboard animations ⚡  
-  - Responsive and colorful layout 🌈  
+  - Interactive buttons with hover effects  
+  - Instant calculation results without page reload  
+  - Simple and clean design for easy use  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41Yp9r5l7KKW1pIc/giphy.gif" width="500"/>
-</p>
+---
+
+### 🏏 **Cricket Game App** ⚡
+- 🔧 Tech: HTML, CSS, JavaScript  
+- 🏏 Click Bat or Ball to play  
+- ✅ Computer randomly chooses its move and displays Win, Loss, or Stump Out  
+- 🎨 Clean, responsive, and fun UI  
+- Screenshot:  
+  ![Cricket Game](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png)  
+
+---
+
+### 📝 **Todo App** ✅
+- ⚡ Fully functional & interactive task manager  
+- 🔧 Tech: HTML, CSS, JavaScript  
+- ✅ Add, edit, and delete tasks dynamically  
+- 🎨 Clean, responsive, and easy-to-use UI  
+- 🛠️ Marks tasks as completed on click  
+- Screenshot:  
+  ![Todo App](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png)  
+
+---
+
+### 🧪 **Scientific Calculator** 🧮
+- ⚡ Advanced calculations (sin, cos, tan, log)  
+- 🔧 Tech: HTML, CSS  
+- 🎨 Modern, interactive UI  
+- ✅ Fully functional and responsive  
 
 ---
 
@@ -120,33 +96,29 @@ These projects are **fully functional**, responsive, and demonstrate **real-worl
 ---
 
 ## 🔗 Live Demo
-You can make these projects **live using GitHub Pages** or any free hosting service like **Netlify/Vercel**.  
-- Example GitHub Pages URL:  
+Make these projects live using GitHub Pages, Netlify, or Vercel:  
+
 
 ---
 
----
-
-## 💡 Tech Stack
+## 🌟 Tech Stack
 - **HTML5** 🖥️  
 - **CSS3** 🎨  
 - **JavaScript** ⚡  
 
 ---
 
-## 🌟 Connect With Me
+## 🌈 Connect With Me
 - 📌 Name: Saif Ullah  
 - 📧 Email: saifystar707@gmail.com  
 - 🐙 GitHub: [Saifullah7779](https://github.com/Saifullah7779)  
 
 <p align="center">
-<img src="https://media.giphy.com/media/26FPnsRwwsn7Z3uoU/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26FPnsRwwsn7Z3uoU/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ### ⭐ Support My Work
-If you like my projects, **please give this repo a ⭐** on GitHub! It motivates me to build more functional and interactive apps 💖  
-
----
+If you like my projects, **please give this repo a ⭐** on GitHub! It motivates me to build more functional and interactive apps 💖
 
