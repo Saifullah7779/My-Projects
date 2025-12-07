@@ -78,14 +78,19 @@ These projects are **fully functional**, responsive, and demonstrate **real-worl
 
 ---
 
-### 🧪 **Scientific Calculator** 🧮
+### 🧪 **Scientific Calculator** 🧮  
 - ⚡ Advanced calculations (sin, cos, tan, log)  
 - 🔧 Tech: HTML, CSS  
 - 🎨 Modern, interactive UI  
-- ✅ Fully functional and responsive
-- Screenshot : (https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-07%20at%2010-26-57%20Scientific%20Calculator.png)  
+- ✅ Fully functional and responsive  
+- Screenshot:  
+  ![Scientific Calculator](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-07%20at%2010-26-57%20Scientific%20Calculator.png)
 
----
+**Features:**  
+- ➕ Performs all basic and advanced math operations  
+- 🎨 Clean, responsive, and interactive layout  
+- ⚡ Instant calculations without page reload  
+- ✅ Perfect for learning & practice  
 
 ---
 
