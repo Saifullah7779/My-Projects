@@ -82,7 +82,8 @@ These projects are **fully functional**, responsive, and demonstrate **real-worl
 - ⚡ Advanced calculations (sin, cos, tan, log)  
 - 🔧 Tech: HTML, CSS  
 - 🎨 Modern, interactive UI  
-- ✅ Fully functional and responsive  
+- ✅ Fully functional and responsive
+- Screenshot : (https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-07%20at%2010-26-57%20Scientific%20Calculator.png)  
 
 ---
 
@@ -96,7 +97,7 @@ These projects are **fully functional**, responsive, and demonstrate **real-worl
 ---
 
 ## 🔗 Live Demo
-Make these projects live using GitHub Pages, Netlify, or Vercel:  
+Projects live using GitHub Pages, Netlify, or Vercel:  
 
 
 ---
