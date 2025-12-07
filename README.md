@@ -87,6 +87,80 @@ These projects are **fully functional**, responsive, and demonstrate **real-worl
 
 ---
 
+---
+
+### 🌦️ **Pakistan Weather App** 🇵🇰✨  
+- 🔧 Tech: HTML, CSS, JavaScript  
+- 🌡️ Shows real-time temperature of any Pakistan city  
+- 💨 Displays wind speed + coordinates (Lat/Lon)  
+- 🎨 Gradient UI with glassmorphism effect  
+- ⚡ Fast, lightweight & responsive  
+- Screenshot:  
+  ![Pakistan Weather App](https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-07%20at%2010-43-50%20Pakistan%20Weather%20App.png)
+
+**Features:**  
+- 🔍 Search any Pakistan city  
+- 🌡️ Live temperature fetching via API  
+- 💨 Wind speed in real-time  
+- 🧭 Latitude & Longitude auto-displayed  
+- ✨ Smooth UI and interactive layout
+
+---
+
+## 🛠️💻 Tech Stack  
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- ⚙️ **JavaScript (Vanilla JS)**  
+- ☁️ **Open-Meteo API**
+
+---
+
+## 📁✨ Project Structure  
+```
+📦 Weather-Project  
+│── index.html  
+│── app.css  
+│── app.js  
+```
+
+---
+
+## 🚀🌤️ How to Run  
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/weather-project
+```
+2. Open **index.html**  
+3. Search any Pakistan city  
+4. Enjoy real-time weather ✨🌦️  
+
+---
+
+## 🔧📜 Sample Code (API Call)  
+```javascript
+const url = `https://api.open-meteo.com/v1/forecast?latitude=${found.lat}&longitude=${found.lon}&current_weather=true`;
+```
+
+---
+
+## 💎🌟 Why This Project?  
+✔ Real API usage  
+✔ Clean & modern UI  
+✔ Great for portfolio  
+✔ Perfect for beginners  
+
+---
+
+## 👨‍💻🔥 Developer  
+**Saifullah** — Frontend Developer  
+⭐ GitHub: **Saifullah7779**
+
+---
+
+## ❤️🌟 Support  
+If you like this project, don't forget to ⭐ **Star the repository**!  
+Your support keeps the spark alive 💖🔥🌈✨
+
 ## 🚀 Features Across All Projects
 - Fully functional interactive apps  
 - Clean, modular, reusable code ✨  
