@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/lkQ9Z8F.gif" width="800"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -166,6 +162,8 @@ const url = `https://api.open-meteo.com/v1/forecast?latitude=${found.lat}&longit
 If you like this project, don't forget to ⭐ **Star the repository**!  
 Your support keeps the spark alive 💖🔥🌈✨
 
+---
+
 ## 🚀 Features Across All Projects
 - Fully functional interactive apps  
 - Clean, modular, reusable code ✨  
@@ -178,14 +176,6 @@ Your support keeps the spark alive 💖🔥🌈✨
 ## 🔗 Live Demo
 Projects live using GitHub Pages, Netlify, or Vercel:  
 
-
----
-
-## 🌟 Tech Stack
-- **HTML5** 🖥️  
-- **CSS3** 🎨  
-- **JavaScript** ⚡  
-
 ---
 
 ## 🌈 Connect With Me
@@ -193,12 +183,7 @@ Projects live using GitHub Pages, Netlify, or Vercel:
 - 📧 Email: saifystar707@gmail.com  
 - 🐙 GitHub: [Saifullah7779](https://github.com/Saifullah7779)  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRwwsn7Z3uoU/giphy.gif" width="300"/>
-</p>
-
 ---
 
 ### ⭐ Support My Work
 If you like my projects, **please give this repo a ⭐** on GitHub! It motivates me to build more functional and interactive apps 💖
-
